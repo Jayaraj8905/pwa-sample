@@ -1,0 +1,15 @@
+{
+  "name": "PWA",
+  "version": "1.0.0",
+  "description": "Progressive Web Application",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4"
+  },
+  "repository": {
+    "type": "git"
+  }
+}
